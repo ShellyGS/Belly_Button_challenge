@@ -30,7 +30,8 @@ This challenge was to reinforce what we learned exploring information using Java
 
 - Screenshot of dashboard
 
-<img width="582" alt="Screenshot 2023-10-09 at 12 32 21 AM" src="https://github.com/ShellyGS/Belly_Button_challenge/assets/131502891/ba409a6d-85a8-460d-899f-8ffd6897878a">
+<img width="579" alt="Screenshot 2023-10-09 at 1 00 30 AM" src="https://github.com/ShellyGS/Belly_Button_challenge/assets/131502891/e39c73da-a2ba-49c2-87fc-46c5c7e8c967">
+
 
 
 
